@@ -1,3 +1,17 @@
+# Hi, I'm Felix 👋 
+
+### 🤖 AI Automation & Machine Learning Engineer in Training
+I am currently bridging the gap between automated business logic and deep learning models.
+
+- 🛠️ **Focus:** AI Automation (WhatsApp Bot Integration & LLM APIs)
+- 🚀 **The Sprint:** 6-Month Intensive ML Deep Dive (4 hours daily)
+- 🎯 **Goal:** Building end-to-end AI systems from scratch.
+
+---
+### 🛠️ Tech Stack
+![Python](https://img.shields.io)
+![GitHub](https://img.shields.io)
+![VS Code](https://img.shields.io)
 ## Hi there 👋
 
 <!--

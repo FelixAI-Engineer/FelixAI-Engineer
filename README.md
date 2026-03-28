@@ -15,6 +15,7 @@ I am currently bridging the gap between automated business logic and deep learni
 ## Hi there 👋
 
 <!--
+![Python](https://img.shields.io) ![GitHub](https://img.shields.io)
 **FelixAI-Engineer/FelixAI-Engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

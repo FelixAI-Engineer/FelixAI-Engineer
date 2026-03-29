@@ -1,4 +1,4 @@
-("I am Felix, and I am an Engineer.")
+("I am Micheal, and I am an Engineer.")
 import numpy as np
 
 # Create a list of numbers (an array)
